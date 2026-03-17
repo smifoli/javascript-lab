@@ -1,0 +1,8 @@
+# --- macOS System Files ---
+.DS_Store
+
+# --- Editor Folders ---
+.vscode/
+
+# --- Development Logs ---
+*.log
